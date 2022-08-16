@@ -1,0 +1,5 @@
+name,face_coord_x1,face_coord_x2,face_coord_y1,face_coord_y2,path_to_image
+face_1,244,394,228,377,face_recognition/data/external/save_images/8ebb.jpeg
+face_2,791,970,154,333,face_recognition/data/external/save_images/8ebb.jpeg
+face_1,301,373,69,141,../data/external/save_images/de10.jpeg
+face_1,301,373,69,141,../data/external/save_images/de10.jpeg
